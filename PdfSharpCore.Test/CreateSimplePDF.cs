@@ -7,6 +7,7 @@ using PdfSharpCore.Pdf;
 using PdfSharpCore.Test.Helpers;
 using PdfSharpCore.Utils;
 using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.Formats;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 using Xunit;
